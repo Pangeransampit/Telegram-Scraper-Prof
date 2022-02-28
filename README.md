@@ -17,7 +17,7 @@ $ pkg install -y git python
 
 $ git clone https://github.com/Pangeransampit/profess0rrocky
 
-$ cd TeleGram-Scraper
+$ cd Telegram-Scraper-Prof
 
   - Install requierments
   
