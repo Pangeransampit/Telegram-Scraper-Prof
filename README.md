@@ -1,17 +1,17 @@
 # profess0rrocky
 script termux 2022
 
-• API Setup
+- API Setup
 
-- Go to http://my.telegram.org and log in.
+  - Go to http://my.telegram.org and log in.
 
-- Click on API development tools and fill the required fields.
+  - Click on API development tools and fill the required fields.
 
-- put app name you want & select other in platform Example :
+  - put app name you want & select other in platform Example :
 
-- copy "api_id" & "api_hash" after clicking create app ( will be used in setup.py )
+  - copy "api_id" & "api_hash" after clicking create app ( will be used in setup.py )
 
-• How To Install and Use
+- How To Install and Use
 
 $ pkg install -y git python
 
@@ -19,15 +19,15 @@ $ git clone https://github.com/Pangeransampit/profess0rrocky
 
 $ cd TeleGram-Scraper
 
-  Install requierments
+  - Install requierments
   
 $ python3 setup.py -i
 
-  setup configration file ( apiID, apiHASH )
+  - setup configration file ( apiID, apiHASH )
   
 $ python3 setup.py -c
 
-  To Genrate User Data
+  - To Genrate User Data
   
 $ python3 scraper.py
 
