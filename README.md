@@ -2,15 +2,17 @@
 script termux 2022
 
 • API Setup
-Go to http://my.telegram.org and log in.
 
-Click on API development tools and fill the required fields.
+- Go to http://my.telegram.org and log in.
 
-put app name you want & select other in platform Example :
+- Click on API development tools and fill the required fields.
 
-copy "api_id" & "api_hash" after clicking create app ( will be used in setup.py )
+- put app name you want & select other in platform Example :
+
+- copy "api_id" & "api_hash" after clicking create app ( will be used in setup.py )
 
 • How To Install and Use
+
 $ pkg install -y git python
 
 $ git clone https://github.com/Pangeransampit/profess0rrocky
