@@ -8,7 +8,7 @@ copy "api_id" & "api_hash" after clicking create app ( will be used in setup.py 
 • How To Install and Use
 $ pkg install -y git python
 
-$ git clone https://github.com/Pangeransampit/professorrocky
+$ git clone https://github.com/Pangeransampit/profess0rrocky
 
 $ cd TeleGram-Scraper
 
